@@ -1,5 +1,4 @@
-
-* ⚠️This is for listening on your own devices. Putting a skill a radio station in the public Alexa Skills Store needs that station's written permission.*
+⚠️This skill for listening on your own devices. Publishing a skill to relay a radio station in the __**public**__ Alexa Skills Store needs that station's __**written permission**__.
 
 # Radio Waters — Alexa skill
 
